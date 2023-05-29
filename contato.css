@@ -1,0 +1,33 @@
+header{
+    background:#836FFF;
+    padding:200px;
+
+}
+
+#logo{
+
+border-radius:10px;
+
+}
+
+@font-face{
+    font-family:'Cormorant-bold';
+    src: url(logotipodahiki.png) format(truetype);
+}
+
+.titulo-principal{
+    font-family: 'Cormorant Garamond', serif;
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    transform: translate(-25%, -100%);
+    font-size: 35px;
+    /* cormorant-bold, sem serifa;*/
+    /*font-family:barlow;*/
+
+}
+
+main{
+    width: 940px;
+    margin: auto;
+}
