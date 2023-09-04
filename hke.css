@@ -1,0 +1,12 @@
+fieldset{
+    margin-left: 460px;
+    margin-right: 40px;
+    margin-top: 200px;
+    height:auto;
+    width: 500px;
+    border-radius: 20px;
+    color: white;
+}
+html{
+    background: rgb(174, 174, 174);
+    background: linear-gradient(90deg, rgb(186, 141, 153) 7%, rgba(2,0,36,1) 52%, rgb(169, 118, 142) 98%); 
